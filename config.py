@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002022711717))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002120722419))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7012132283))
+OWNER_ID = int(getenv("OWNER_ID", 6461093058))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/theind_coders")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/the_ind_coders")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dil_Dosti_Pyar_Channel")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ddpgcp")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,10 +141,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/7063e3b0eac98dcc5734e.jpg"
+    "START_IMG_URL", "https://graph.org/file/f55a36cf829306a5303e3.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/35f71c3ebde68a5d7fc23.jpg"
+    "PING_IMG_URL", "https://graph.org/file/f55a36cf829306a5303e3.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/181715eb83d6b2dc4c1a1.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/3e8be4617f67d7369b44a.jpg"
